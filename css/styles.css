@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+p {
+    font-style: italic;
+    text-align: center;
+    white-space: pre-line;
+    
+}
+h3 {
+    font-style: italic;
+    text-align: center;
+}
+h1 {
+    text-align: center;    
+    text-decoration: underline red;
+}
+
+a {
+    color: red;
+    text-decoration: underline black
+}
+
+
+
